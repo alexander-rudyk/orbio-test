@@ -23,8 +23,6 @@ The project includes a `docker-compose.yml` that spins up:
 3. Run Docker Compose:
 
     ```bash
-    Copy
-    Edit
     docker-compose up --build
     ```
 4. The app will be available at:
